@@ -34,6 +34,7 @@ describe('HomePageTest',()=>{
       cy.login(selector.usernameField,testData.email,selector.passwordField,testData.password,selector.submitButton);
       hp.recruitmentLink(selector.recruitmentLink,selector.candidateText);
       hp.jobTitleDropdown(selector.jobDropdown,selector.DropdownOption);
+      
       hp.vacancyDropdown(selector.vacancyDropDown,selector.vacancyName);
         
     })
