@@ -1,0 +1,15 @@
+{
+  "usernameField": "[name='username']",
+  "passwordField": "[type='password']",
+  "submitButton":"[type='submit']",
+  "logo":"[alt='client brand banner']",
+
+  
+
+  "recruitmentLink":"[href='/web/index.php/recruitment/viewRecruitmentModule']",
+  "candidateText":"[class='oxd-text oxd-text--h5 oxd-table-filter-title']",
+  "jobDropdown":"#app > div.oxd-layout > div.oxd-layout-container > div.oxd-layout-context > div > div.oxd-table-filter > div.oxd-table-filter-area > form > div:nth-child(1) > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div.oxd-select-text--after > i",
+   "DropdownOption":"#app > div.oxd-layout > div.oxd-layout-container > div.oxd-layout-context > div > div.oxd-table-filter > div.oxd-table-filter-area > form > div:nth-child(1) > div > div:nth-child(1) > div > div:nth-child(2) > div > div.oxd-select-dropdown.--positon-bottom > div:nth-child(4) > span",
+   "vacancyDropDown":"#app > div.oxd-layout > div.oxd-layout-container > div.oxd-layout-context > div > div.oxd-table-filter > div.oxd-table-filter-area > form > div:nth-child(1) > div > div:nth-child(2) > div > div:nth-child(2) > div > div > div.oxd-select-text--after > i",
+   "vacancyName":"#app > div.oxd-layout > div.oxd-layout-container > div.oxd-layout-context > div > div.oxd-table-filter > div.oxd-table-filter-area > form > div:nth-child(1) > div > div:nth-child(2) > div > div:nth-child(2) > div > div.oxd-select-dropdown.--positon-bottom > div:nth-child(5) > span"
+}
