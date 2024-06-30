@@ -19,7 +19,8 @@ class Homepage{
     }
 
     vacancyDropdown(element1,element2)
-    {
+    { 
+        
         cy.ClickElement(element1);
         cy.ClickElement(element2);
     }
